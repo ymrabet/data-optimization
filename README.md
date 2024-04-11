@@ -11,8 +11,8 @@ Business Problem:
 
 The PPTX presentation explains in further details the approach which consists of
 
-1- Scope Discovery and Data manipulation
-2- Defining Penalty Function
+1- Scope Discovery and Data manipulation \n
+2- Defining Penalty Function\n
 3- Modeling, Results and Insights
 
 
