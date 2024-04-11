@@ -9,10 +9,10 @@ Business Problem:
 - Develop a model that is going to find the best team set (25) assignment given the 100 employees.
 - Employees can not be in more than one team.
 
-The PPTX presentation explains in further details the approach which consists of
+The PPTX presentation explains in further details the approach which consists of:
 
-1- Scope Discovery and Data manipulation \n
-2- Defining Penalty Function\n
+1- Scope Discovery and Data manipulation 
+2- Defining Penalty Function
 3- Modeling, Results and Insights
 
 
